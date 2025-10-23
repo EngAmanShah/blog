@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://qatarvisastatus.com
+
+# Sitemaps
+Sitemap: https://qatarvisastatus.com/sitemap.xml
